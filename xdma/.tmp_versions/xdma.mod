@@ -1,2 +1,0 @@
-/home/user/workspaces/cpp/MRAM_Driver/xdma/xdma.ko
-/home/user/workspaces/cpp/MRAM_Driver/xdma/libxdma.o /home/user/workspaces/cpp/MRAM_Driver/xdma/xdma_cdev.o /home/user/workspaces/cpp/MRAM_Driver/xdma/cdev_ctrl.o /home/user/workspaces/cpp/MRAM_Driver/xdma/cdev_events.o /home/user/workspaces/cpp/MRAM_Driver/xdma/cdev_sgdma.o /home/user/workspaces/cpp/MRAM_Driver/xdma/cdev_xvc.o /home/user/workspaces/cpp/MRAM_Driver/xdma/cdev_bypass.o /home/user/workspaces/cpp/MRAM_Driver/xdma/xdma_mod.o /home/user/workspaces/cpp/MRAM_Driver/xdma/xdma_thread.o

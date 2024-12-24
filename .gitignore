@@ -1,0 +1,16 @@
+.vscode/
+gdb
+*.log
+*.bin
+*.txt
+*.o
+*.so
+load_driver.sh
+dma_from_device
+dma_to_device
+performace
+reg_rw
+test_chrdev
+*.cmd
+*.ko
+xdma/.tmp_versions/

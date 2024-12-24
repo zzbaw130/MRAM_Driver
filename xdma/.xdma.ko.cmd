@@ -1,1 +1,0 @@
-cmd_/home/user/workspaces/cpp/MRAM_Driver/xdma/xdma.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/user/workspaces/cpp/MRAM_Driver/xdma/xdma.ko /home/user/workspaces/cpp/MRAM_Driver/xdma/xdma.o /home/user/workspaces/cpp/MRAM_Driver/xdma/xdma.mod.o
